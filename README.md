@@ -1,6 +1,6 @@
 # resume
 
-A new Flutter project.
+A Resume to show 
 
 ## Getting Started
 
